@@ -18,7 +18,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mocha/proprietary/bin/conn_init:system/bin/conn_init \
     vendor/xiaomi/mocha/proprietary/etc/bluetooth/bdaddr:system/etc/bluetooth/bdaddr \
     vendor/xiaomi/mocha/proprietary/etc/enctune.conf:system/etc/enctune.conf \
-    vendor/xiaomi/mocha/proprietary/etc/firmware/BCM4350C0.hcd:$(TARGET_COPY_OUT_VENDOR)/firmware/BCM4350C0.hcd \
+    vendor/xiaomi/mocha/proprietary/etc/firmware/BCM4350C0.hcd:system/vendor/firmware/BCM4350C0.hcd \
     vendor/xiaomi/mocha/proprietary/etc/firmware/fw_bcmdhd.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fw_bcmdhd.bin\
     vendor/xiaomi/mocha/proprietary/etc/firmware/fw_bcmdhd_apsta.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fw_bcmdhd_apsta.bin \
     vendor/xiaomi/mocha/proprietary/etc/firmware/bq27520_atl.bqfs:system/etc/firmware/bq27520_atl.bqfs \
