@@ -97,6 +97,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mocha/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/hw/gralloc.tegra.so:system/vendor/lib/hw/gralloc.tegra.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/hw/hwcomposer.tegra.so:system/vendor/lib/hw/hwcomposer.tegra.so \
+    vendor/xiaomi/mocha/proprietary/vendor/lib/hw/memtrack.tegra.so:system/vendor/lib/hw/memtrack.tegra.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libEGL_perfhud.so:system/vendor/lib/libEGL_perfhud.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libEGL_tegra_impl.so:system/vendor/lib/libEGL_tegra_impl.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libGLESv1_CM_tegra_impl.so:system/vendor/lib/libGLESv1_CM_tegra_impl.so \
